@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eloisaibok
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning python
+- 👀 I’m a python nerd
+- 🌱 Love to read
 -
 
 <!---
